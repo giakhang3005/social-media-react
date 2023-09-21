@@ -1,4 +1,4 @@
-#https://fir-social-media-prj.web.app
+https://fir-social-media-prj.web.app
 
 # Getting Started with Create React App
 
