@@ -1,0 +1,38 @@
+nav {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1% 0 1%;
+    border-bottom: 1px solid gainsboro;
+    height: 60px;
+}
+.profile {
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+}
+
+.profile img {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+.navBtn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.navBtn a {
+    text-decoration: none;
+    color: black;
+    padding: 0 4px 2px 4px;
+    margin: 0 11px 0 11px;
+    font-weight: 600;
+    font-size: 18px;
+}
+.navBtn a:hover {
+    border-bottom: 1px black solid;
+}

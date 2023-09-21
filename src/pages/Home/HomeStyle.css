@@ -1,0 +1,18 @@
+.ant-space {
+    height: 90vh;
+    overflow: scroll;
+}.ant-card-head-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ant-card-head-title img {
+    margin-top: 10px;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+.ant-empty {
+    margin-top: 20px;
+}
