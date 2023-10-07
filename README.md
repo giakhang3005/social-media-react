@@ -1,6 +1,6 @@
 
 
-<span class="demo">Demo with Github Pages: [Demo Simple Social Media with Firebase]([https://filmstorage.giakhang3005.com](https://fir-social-media-prj.web.app)) </span>
+<span class="demo">Demo with Github Pages: [Demo Simple Social Media with Firebase](https://fir-social-media-prj.web.app) </span>
 
 
 <h3>Using</h3>
